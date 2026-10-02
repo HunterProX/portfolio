@@ -1,0 +1,39 @@
+{
+  "baseline": {
+    "date": "2026-10-02T09:14:00Z",
+    "profile_views_per_week": 15,
+    "search_appearances_per_week": 10,
+    "recruiter_messages_per_month": 0,
+    "connection_requests_per_month": 0,
+    "post_impressions_per_week": 7,
+    "followers": 535,
+    "connections": 500
+  },
+  "current": {
+    "date": "2026-10-02T09:14:00Z",
+    "profile_views_per_week": 15,
+    "search_appearances_per_week": 10,
+    "recruiter_messages_per_month": 0,
+    "connection_requests_per_month": 0,
+    "post_impressions_per_week": 7,
+    "followers": 535,
+    "connections": 500
+  },
+  "history": [
+    {
+      "date": "2026-10-02T09:14:00Z",
+      "profile_views": 15,
+      "search_appearances": 10,
+      "recruiter_messages": 0,
+      "post_impressions": 7
+    }
+  ],
+  "ab_tests": {
+    "headline": {
+      "variant_a": "Senior Full Stack Developer | Cloud Architecture | AI Integration | Remote-First",
+      "variant_b": "Senior Full Stack Developer | AI Integration | Cloud | Remote",
+      "status": "pending",
+      "winner": null
+    }
+  }
+}
